@@ -1,3 +1,5 @@
+![banner](./assets/banner.png)
+
 # Oceanet · Edge Computing & Computer Systems
 
 | Integrante | RM |
