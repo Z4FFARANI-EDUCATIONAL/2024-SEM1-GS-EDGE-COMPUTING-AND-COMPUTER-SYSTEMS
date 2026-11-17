@@ -20,6 +20,10 @@ Para o protótipo, consideramos o dióxido de carbono (CO2) como gás a ser dete
 
 ![simulador](assets/img%20-%20simulador.png)
 
+### Projeto principal
+
+[Oceanet](https://github.com/Z4ffarani/Oceanet): repositório principal do projeto.
+
 ## Esta entrega: Edge Computing & Computer Systems
 
 | Entregável | Onde |
